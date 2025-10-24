@@ -5,6 +5,8 @@ This project focuses on layout structure, modern UI design, and styling techniqu
 
 ---
 
+## 🌐 Live Demo  
+🔗 [View Project Here](https://tushar-313.github.io/spotify-clone-html-css/)  
 
 ## ✨ Features
 
